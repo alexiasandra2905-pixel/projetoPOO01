@@ -1,3 +1,5 @@
+#Progeto em python que serve como nota de poo...loja, mercantil sem interratividade
+#inclui:classe, objeto,encapsulamento, herança, polimorfismo, metodo/função, construtor
 class Produto:
     def __init__(self, nome, preco, estoque):
         self.nome = nome
